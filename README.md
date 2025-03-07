@@ -2,7 +2,7 @@
 
 ![Steganography illustration](readme_illustration.png)
 
-# Table of Contents
+## Table of Contents
 
 * [Installation](#installation)
 * [Byte Sequence Manipulation](#byte-sequence-manipulation)
